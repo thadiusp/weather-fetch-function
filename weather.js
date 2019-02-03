@@ -1,4 +1,4 @@
-const api = 'f76d4358d0078025c2a282a82459560e'
+const api = '{{api key here}}'
 const url = 'http://api.openweathermap.org/data/2.5/weather?q=Indianapolis&appid=';
 
 
